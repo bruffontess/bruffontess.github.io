@@ -8,11 +8,12 @@ background-color: #000000;
 
     }
     nav .brand-logo{
+      font-size: 15px;
       left: 15%;
 
     }
     .hide-on-med-and-down{
-      display: block;
+      display: block !important;
     }
 }
 table {
