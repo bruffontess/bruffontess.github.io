@@ -19,6 +19,10 @@ background-color: #000000;
       display: block !important;
     }
 }
+.black-text
+{
+font-size: 20px;
+}
 table {
 color: #993399;
     }
@@ -26,9 +30,11 @@ i{
 color: #ffffff;
     }
 h1 {
-color: #993399;
+  font-size: 50px;
+  color: #993399;
     }
 h2 {
+  font-size: 45px;
 color: #993399;
     }
 h3 {
@@ -104,6 +110,10 @@ div {
     background-color: #bf3fbf;
     color: #ffffff;
   }
+  .title-project{
+      background-color: #bf3fbf;
+      color: #ffffff;
+    }
   .contat{
       background-color: #bf3fbf;
       color: #ffffff;
