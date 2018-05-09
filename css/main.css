@@ -3,7 +3,7 @@ body {
   font-family: 'Cute Font', cursive;
 background-color: #000000;
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1200px) {
     .container-nav{
 
     }
