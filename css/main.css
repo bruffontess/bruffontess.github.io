@@ -12,6 +12,9 @@ background-color: #000000;
       left: 15%;
 
     }
+    .right-on-med-and-down-on-med-and-down{
+      display: block !important;
+    }
     .hide-on-med-and-down{
       display: block !important;
     }
