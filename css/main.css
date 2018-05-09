@@ -1,0 +1,115 @@
+body {
+  font-family: 'PT Serif', serif;
+  font-family: 'Cute Font', cursive;
+background-color: #000000;
+}
+@media only screen and (max-width: 600px) {
+    .container-nav{
+
+    }
+    nav .brand-logo{
+      left: 15%;
+
+    }
+    .hide-on-med-and-down{
+      display: block;
+    }
+}
+table {
+color: #993399;
+    }
+i{
+color: #ffffff;
+    }
+h1 {
+color: #993399;
+    }
+h2 {
+color: #993399;
+    }
+h3 {
+color: #993399;
+    }
+h4 {
+color: #993399;
+                }
+h5 {
+  color: #993399;
+  }
+p {
+  color: #993399;
+    }
+div {
+    width:100%;
+}
+.container-nav{
+  background-color: #bf3fbf;
+}
+.title-knowledge{
+    background-color: #bf3fbf;
+    color: #ffffff;
+  }
+  .contat{
+      background-color: #bf3fbf;
+      color: #ffffff;
+  }
+  .black-text{
+  font-family: 'PT Serif', serif;
+  font-family: 'Cute Font', cursive;
+
+  }
+img {
+    position: relative;
+    float: right;
+}body {
+  font-family: 'PT Serif', serif;
+  font-family: 'Cute Font', cursive;
+background-color: #000000;
+}
+table {
+color: #993399;
+    }
+i{
+color: #ffffff;
+    }
+h1 {
+color: #993399;
+    }
+h2 {
+color: #993399;
+    }
+h3 {
+color: #993399;
+    }
+h4 {
+color: #993399;
+                }
+h5 {
+  color: #993399;
+  }
+p {
+  color: #993399;
+    }
+div {
+    width:100%;
+}
+.container-nav{
+  background-color: #bf3fbf;
+}
+.title-knowledge{
+    background-color: #bf3fbf;
+    color: #ffffff;
+  }
+  .contat{
+      background-color: #bf3fbf;
+      color: #ffffff;
+  }
+  .black-text{
+  font-family: 'PT Serif', serif;
+  font-family: 'Cute Font', cursive;
+
+  }
+img {
+    position: relative;
+    float: right;
+}
