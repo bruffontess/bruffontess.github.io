@@ -52,6 +52,10 @@ p {
 div {
     width:100%;
 }
+.destaquemenu a
+{
+  color: #000000;
+}
 .container-nav{
   background-color: #bf3fbf;
 }
